@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClipboardManager</string>
+    <string name="copy_text_to_clipboard">Text has been copied to clipboard</string>
+</resources>

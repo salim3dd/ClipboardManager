@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClipboardManager</string>
+    <string name="copy_text_to_clipboard">تم نسخ النص في الحافظة</string>
+</resources>
